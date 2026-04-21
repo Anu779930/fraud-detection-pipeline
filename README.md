@@ -111,7 +111,6 @@ fraud-detection-pipeline/
 
 #### 🔍 Flagged Transaction Audit
 ![Dashboard Table](dashboard/dashboard_data.png)
-
 🚀 How to Run
 
 1. Clone the repository
