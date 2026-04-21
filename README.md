@@ -108,7 +108,7 @@ fraud-detection-pipeline/
 
 📸 Dashboard Preview
 #### 📈 Fraud Risk & KPI Metrics
-![Dashboard Metrics](dashboard/dashboard_metrics.png)
+![Dashboard Metrics](dashboard/dashboard_preview.png)
 
 #### 🔍 Flagged Transaction Audit
 ![Dashboard Table](dashboard/dashboard_data.png)
