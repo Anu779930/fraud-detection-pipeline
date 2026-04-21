@@ -76,7 +76,6 @@ fraud-detection-pipeline/
 │
 ├── requirements.txt             # Python dependencies
 └── README.md
-
 🔧 Project Components
 
 1️⃣ ETL Pipeline (pipeline/etl_pipeline.py)
