@@ -29,7 +29,7 @@ Version Control | Git, GitHub
 - Challenge: Highly imbalanced — only 0.17% fraud cases (handled with SMOTE)
 
 🏗️ Pipeline Architecture
-'''
+```
 Raw Data (CSV)
      │
      ▼
@@ -48,10 +48,10 @@ BI Dashboard (Streamlit)
         ├── Real-Time KPI Metrics
         ├── Risk Distribution Analysis
         └── Flagged Transaction Audit Table
-''''
+```
 ----
 📂 Project Structure
-'''
+```
 fraud-detection-pipeline/
 │
 ├── data/
@@ -79,7 +79,7 @@ fraud-detection-pipeline/
 │
 ├── requirements.txt             # Python dependencies
 └── README.md
-'''
+```
 
 🔧 Project Components
 
